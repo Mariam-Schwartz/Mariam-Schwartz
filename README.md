@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mariam-Schwartz
 - 👀 I’m interested in Leveraging data to drive strategy and decision making for scalable tech businesses 
 - 🌱 I’m currently learning SQL, python for data analytics and statistics
-- 💞️ I’m looking to collaborate on exploring how to build better intelligence systems that make guide strategy and business operations
+- 💞️ I’m looking to explore how to build better intelligence systems that  guide strategy and business operations
 - 📫 How to reach me via email: mariam.o.schwartz@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am technically christian, muslim and jewish .... ask me how if we connect
