@@ -4,7 +4,7 @@
 - 💞️ I’m looking to explore how to build better intelligence systems that  guide strategy and business operations
 - 📫 How to reach me via email: mariam.o.schwartz@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am technically christian, muslim and jewish .... ask me how if we connect
+- ⚡ Fun fact: I host community events in the summer to connect people to African culture - food, music, stories
 
 <!---
 Mariam-Schwartz/Mariam-Schwartz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
